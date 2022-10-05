@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ryant
+ *
+ */
+module CoreJavaExerciseBook {
+}
